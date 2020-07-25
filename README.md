@@ -12,7 +12,4 @@
  - [Quick sort](#quick-sort)
  - [Radix sort](#radix-sort)
 
- * Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+ 
