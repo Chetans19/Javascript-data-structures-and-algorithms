@@ -5,6 +5,8 @@
  - [Searching Algorithms](#searching-algoorithms)
     * [Linear search](#linear-search)
     * [Binary search](#binary-search) 
+    
+ - [Soring algorithms](#sorting-algorithms)   
  - [Buble sort](#bubble-sort)
  - [Selection sort](#selection-sort)
  - [Insertion sort](#insertion-sort)
