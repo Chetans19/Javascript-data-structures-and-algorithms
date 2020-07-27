@@ -5,6 +5,8 @@
  - [Searching Algorithms](#searching-algoorithms)
     * [Linear search](#linear-search)
     * [Binary search](#binary-search) 
+    
+ - [Soring algorithms](#sorting-algorithms)   
  - [Buble sort](#bubble-sort)
  - [Selection sort](#selection-sort)
  - [Insertion sort](#insertion-sort)
@@ -12,6 +14,8 @@
  - [Quick sort](#quick-sort)
  - [Radix sort](#radix-sort)
 
+
+## Bubble sort
  ``` 
  // UNOPTIMIZED VERSION OF BUBBLE SORT
 function bubbleSort(arr){
@@ -46,3 +50,5 @@ function bubbleSort(arr) {
 
 bubbleSort([8,1,2,3,4,5,6,7]);
  ```
+
+ 
