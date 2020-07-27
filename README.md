@@ -7,7 +7,7 @@
     * [Binary search](#binary-search) 
     
  - [Soring algorithms](#sorting-algorithms)   
- - [Buble sort](#bubble-sort)
+ - [Bubble sort](#bubble-sort)
  - [Selection sort](#selection-sort)
  - [Insertion sort](#insertion-sort)
  - [Mergr sort](#merge-sort)
