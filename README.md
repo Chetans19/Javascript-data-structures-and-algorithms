@@ -50,5 +50,23 @@ function bubbleSort(arr) {
 
 bubbleSort([8,1,2,3,4,5,6,7,8,9,10]);
  ```
+## Insertion sort
 
+```
+function insertionSort(arr) {
+  
+  for(var i=0; i<arr.length; i++) {
+    let j = i-1;
+    let temp = arr[i];
+    while(j>=0 && arr[j] > temp) {
+      arr[j+1] = arr[j]
+      j--;
+    }
+    arr[j+1] = temp;
+  }
+return arr;
+}
+
+insertionSort([20,3,2,5,89,29,4]);
+```
  
