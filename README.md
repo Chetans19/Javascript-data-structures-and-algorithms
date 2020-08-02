@@ -93,7 +93,7 @@ insertionSort([20,3,2,5,89,29,4]);
           .concat(right.slice(rightIndex));
 }
 ```
- 
+ ## Quick sort
  
  
  
