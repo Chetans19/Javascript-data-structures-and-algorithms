@@ -174,3 +174,5 @@ console.log(sortedArray); //prints [2,3,5,6,7,9]
 ## Doubly linked list
 
 ## Binary Search Tree
+
+## Dynamic programming
