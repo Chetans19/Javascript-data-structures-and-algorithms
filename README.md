@@ -166,6 +166,7 @@ function quickSort(items, left, right) {
 // first call to quick sort
 var sortedArray = quickSort(items, 0, items.length - 1);
 console.log(sortedArray); //prints [2,3,5,6,7,9]
+
  
 ```
 
